@@ -1,4 +1,4 @@
-<h1 align="center">Pinky</h1>
+<h1 align="center">zzzzzzz</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=Self-taught+Programmer;Ex-Blackhat+(2019–2024);Now+Grayhat;Privacy+Extremist;Anti-Mass-Surveillance;Arch+Linux+Daily+Driver" />
 </p>
